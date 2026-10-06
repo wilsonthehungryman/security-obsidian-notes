@@ -1,0 +1,32 @@
+- `ls`
+	- list all files/directories
+	- -l for long listing
+	- -a for hidden files
+- `cat file`
+	- read a file
+- `sudo command`
+	- super user do
+	- run command as super user (basically root)
+- `su user`
+	- switch to this user (you need their password as well)
+- `cd dir`
+	- change directory
+- `pwd`
+	- show the current directory/path
+- `touch file`
+	- create a file
+- `rm file` 
+	- remove a file
+	- `-R` for directory
+- `mv src dest`
+	- move a file
+- `mkdir dir`
+	- make a directory
+- `cp src dest`
+	- copy a file
+- `command > file`
+	- put the output of a command into a file
+	- if the file exists it will be recreated
+- `command >> file`
+	- append the results of a command to a file
+ 

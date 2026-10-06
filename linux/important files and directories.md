@@ -1,0 +1,11 @@
+- /root
+	- the home directory for the root user
+- /etc/passwd
+	- contains information on the users (used to also contain passwords)
+- /etc/shadow
+	- contains the hashed passwords for all users
+- /tmp
+	- temporary files
+	- cleared every time the system is restarted
+- /var/log
+	- stores logs ex apache2 logs

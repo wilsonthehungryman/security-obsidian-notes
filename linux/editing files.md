@@ -1,0 +1,5 @@
+- `nano filename` is the easiest most straightforward
+- `vim filename`
+	- More complicated and requires lots of hotkeys
+	- Syntax highlighting
+	- 
